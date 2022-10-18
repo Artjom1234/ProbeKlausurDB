@@ -1,0 +1,5 @@
+Aufgabe 3
+a)	A kennt B, und B kennt A.
+Aus der Klasse A gebildetes Objekt kann Beziehungen zu beliebig vielen Objekten der Klasse B haben. Ein Objekt nach dem Bauplan der Klasse B kann nur eine Beziehung zu einem Objekt der Klasse A haben.
+b)	C kennt D, aber D kennt C nicht. 
+Ein Objekt der Klasse C muss Beziehungen zu mindestens 2 Objekten und maximal 6 Objekten der Klasse D haben. Ein Objekt der Klasse D muss eine Beziehung zu mindestens einem Objekt oder beliebig vielen Objekten der Klasse C haben.

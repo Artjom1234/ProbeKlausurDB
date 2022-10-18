@@ -1,0 +1,8 @@
+Aufgabe 2
+•	Integrität – gemeint ist die Unversehrtheit/Echtheit  der Daten
+•	Datenunabhängigkeit – die Unabhängigkeit von Anwendungsprogrammen und den Daten, die die Anwendungsprogramme benötigen.
+•	Konsistenz – die Korrektheit der Daten.
+•	Entität – Tabelle
+•	Attribut – Die Eigenschaft der Entität
+•	Primärschlüssel (PrimaryKey) – Ein Attribut der einzigartig/einmalig ist.
+•	Fremdschlüssel (ForeignKey) – Ein Verweis auf einen Primärschlüssel aus anderen Tabelle.
