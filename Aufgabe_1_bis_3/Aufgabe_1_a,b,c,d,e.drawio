@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="8bF8J5bt0PdqWJPGgKOW" name="Aufgabe_1a">
-        <mxGraphModel dx="870" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="722" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -29,7 +29,7 @@
         </mxGraphModel>
     </diagram>
     <diagram name="Aufgabe_1b" id="bL7xpphm9A832eFLmeDP">
-        <mxGraphModel dx="870" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="722" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="4VwpfrwYLHQ9zOgYxA3H-0"/>
                 <mxCell id="4VwpfrwYLHQ9zOgYxA3H-1" parent="4VwpfrwYLHQ9zOgYxA3H-0"/>
@@ -58,7 +58,7 @@
         </mxGraphModel>
     </diagram>
     <diagram name="Aufgabe_1c" id="h_CiRH4738aVnMvBg7jV">
-        <mxGraphModel dx="870" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="722" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="39soPZG976R_Xgz1RS7h-0"/>
                 <mxCell id="39soPZG976R_Xgz1RS7h-1" parent="39soPZG976R_Xgz1RS7h-0"/>
@@ -69,7 +69,7 @@
         </mxGraphModel>
     </diagram>
     <diagram name="Aufgabe_1d" id="501YtkT7q5zg2e3CCFyi">
-        <mxGraphModel dx="1697" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1549" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="BPjVhRcj5HegYCOqcYRo-0"/>
                 <mxCell id="BPjVhRcj5HegYCOqcYRo-1" parent="BPjVhRcj5HegYCOqcYRo-0"/>
@@ -98,23 +98,23 @@
         </mxGraphModel>
     </diagram>
     <diagram name="Aufgabe_1e" id="yupVls34_xUEB1TCzymE">
-        <mxGraphModel dx="870" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="722" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="nBTT0-i10sxPqewBsnjJ-0"/>
                 <mxCell id="nBTT0-i10sxPqewBsnjJ-1" parent="nBTT0-i10sxPqewBsnjJ-0"/>
                 <mxCell id="nBTT0-i10sxPqewBsnjJ-3" value="Mitarbeiter" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="nBTT0-i10sxPqewBsnjJ-1" vertex="1">
-                    <mxGeometry x="40" y="50" width="140" height="130" as="geometry"/>
+                    <mxGeometry x="40" y="50" width="170" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="uUIrrCx_qkhMdOPj7oOR-1" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;+ID PK&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;+Name&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;+id_Vorgesetzter FK&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;+id_Mitarbeiter FK&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="nBTT0-i10sxPqewBsnjJ-3">
-                    <mxGeometry y="30" width="140" height="100" as="geometry"/>
+                <mxCell id="uUIrrCx_qkhMdOPj7oOR-1" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;+ID PK&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;+Name&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;+id_Vorgesetzter FK&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;+id_unterstellteMitarbeiter FK&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="nBTT0-i10sxPqewBsnjJ-3">
+                    <mxGeometry y="30" width="170" height="100" as="geometry"/>
                 </mxCell>
                 <mxCell id="nBTT0-i10sxPqewBsnjJ-7" value="" style="shape=link;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="nBTT0-i10sxPqewBsnjJ-1" source="nBTT0-i10sxPqewBsnjJ-3" target="nBTT0-i10sxPqewBsnjJ-3" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="320" y="150" as="sourcePoint"/>
                         <mxPoint x="220" y="100" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="220" y="83"/>
-                            <mxPoint x="220" y="148"/>
+                            <mxPoint x="270" y="83"/>
+                            <mxPoint x="270" y="148"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
